@@ -1,17 +1,17 @@
 <h2 align="left">👋 Hey, it's Gowtham G here!</h2>
 
-
+###
 
 <p align="left">🔍 I'm committed to elevating my expertise in Data Science and Machine Learning.<br>🌱 Currently, I'm enrolled in the MSc Data Science program at the University of Kerala.<br>💞️ I'm enthusiastically looking for opportunities to collaborate on a variety of data science projects.</p>
 
-
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imgowthamg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imgowthamg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+###
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
 </div>
 
-
+###
 
 <div align="right">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="35" alt="discord logo"  />
@@ -57,12 +57,5 @@
   </a>
 </div>
 
-
-
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/imgowthamg/count.svg?"  />
-</div>
-
+###
 

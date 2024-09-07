@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔍 I'm committed to elevating my expertise in Data Science and Machine Learning.<br>🌱 Currently, I'm enrolled in the MSc Data Science program at the University of Kerala.<br>💞️ I'm enthusiastically looking for opportunities to collaborate on a variety of data science projects.</p>
+<p align="left">🔍 I'm committed to elevating my expertise in Data Science and Machine Learning.<br>🌱 Currently, I am currenty working at ICFOSS as an Intern and I'm enrolled in the MSc Data Science program at the University of Kerala.<br>💞️ I'm enthusiastically looking for opportunities to collaborate on a variety of data science projects.</p>
 
 ###
 
